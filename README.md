@@ -1,7 +1,10 @@
 # Auto-Hair (segmentation)
 
 ### install packages
-1. pip install tensorflow==1.14
+*   pip install tensorflow==1.14
+*   pip install torch
+*   pip install torchvision
+*   pip install opencv-python
 
 ### download model
 1. segmentation model
